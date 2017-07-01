@@ -34,7 +34,7 @@ const uint16_t PROGMEM fn_actions[] = {
     [0] = ACTION_LAYER_MOMENTARY(1),  // to Function Layer 1
     [1] = ACTION_LAYER_MOMENTARY(2),  // to Function Layer 2 + RGB
     [2] = ACTION_MODS_TAP_KEY(MOD_RSFT, KC_SLSH), //Right Shift tap will trigger ?/, hold will trigger Shift
-    [3] = ACTION_MODS_TAP_KEY(MOD_RSFT, KC_PGUP), //Right Shift tap will trigger ?/, hold will trigger Shift
+    [3] = ACTION_MODS_TAP_KEY(MOD_RSFT, KC_PGUP), //Right Shift tap will trigger Page Up, hold will trigger Shift
 };
 
 // Macros
