@@ -1,3 +1,5 @@
+//Keymap made with reference to ../stanleylai
+
 #include "xd60.h"
 #include "action_layer.h"
 
